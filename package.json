@@ -1,0 +1,22 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "Design Patterns for Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preetom/patterns.git"
+  },
+  "keywords": [
+    "design_patterns"
+  ],
+  "author": "Preetom Banerjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preetom/patterns/issues"
+  },
+  "homepage": "https://github.com/preetom/patterns#readme"
+}
